@@ -1,0 +1,6 @@
+{
+  "name": "Gotas Inteligentes",
+  "description": "Aplicativo Gotas Inteligentes exclusivo para a comunidade Carne Gorda/RN com gestão de escalas de irrigação, monitor de solo seco, consumo de água, dicas sustentáveis dos 3 Rs, irrigação de plantas (milho, sorgo, banana, feijão) e acessibilidade com leitor de voz e suporte visual para pessoas surdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
